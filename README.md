@@ -5,6 +5,11 @@ games from UNIX folklore. `wump`, developed in 1973, `trek` from
 1976 (called `spirhunt` in this version), and `adventure` from 1977,
 are the oldest.
 
+## Moved
+
+This project has been moved to SourceForge and is not updated here.
+Go to [https://sf.net/p/bsd-games](https://sf.net/p/bsd-games) for the current version.
+
 ## Installation
 
 Installation requirements:
@@ -21,9 +26,9 @@ sgid. Scorefiles in /var/lib/bsdgames are owned and writable by the
 users group. For security, each game validates scores when loading.
 Saved game files are also validated and will not cause a crash.
 
-If you find bugs, report them on the github
-[project](https://github.com/msharov/bsd-games)
-[bugtracker](https://github.com/msharov/bsd-games/issues).
+If you find bugs, report them on the SourceForge
+[project](https://sf.net/p/bsd-games)
+[bugtracker](https://sf.net/p/bsd-games/tickets).
 
 ## Included
 
